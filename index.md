@@ -3,5 +3,5 @@ Welcome! This is the place where I document my progress in studying Computationa
 
 # Part One
 ## Introduction
-[Course Introduction](module1/introduction/introduction.md)
-[Descriptive Models](module1/introduction/descriptive_models.md)
+1. [Course Introduction](module1/introduction/introduction.md)
+2. [Descriptive Models](module1/introduction/descriptive_models.md)
