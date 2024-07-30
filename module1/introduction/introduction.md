@@ -1,9 +1,5 @@
 # Introduction to Computational Neuroscience
 
-## Understanding Our Universe
-- **Universe Misconception:** Traditional view vs. the real universe inside our skull.
-- **Brain Functionality:** The brain, a three-pound mass of tissue, allows us to perceive the world and universe, think, feel, act, and be human. It enables speech, listening, and even the decision to skip boring parts of a lecture.
-
 ## Course Overview
 This course will explore how to understand the brain using computational models. We will cover three types of computational models:
 
