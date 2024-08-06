@@ -6,6 +6,8 @@ Welcome! This is the place where I document my progress in studying Computationa
 1. [Short Read on Neuroscience](https://www.bna.org.uk/static/uploads/resources/BNA_English.pdf)
 2. [Brain Facts](https://www.brainfacts.org/-/media/Brainfacts2/BrainFacts-Book/Brain-Facts-PDF-with-links.pdf)
 
+My notes on "Brain Facts": [Brain Facts Notes](brain_facts/index.md)
+
 # Part One
 ## Introduction
 1. [Course Introduction](module1/introduction/introduction.md)
